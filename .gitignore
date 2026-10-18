@@ -1,0 +1,21 @@
+# Compilacion y entornos
+/target/
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Resultados dinamicos (se conservan las carpetas con .gitkeep)
+/output/*.csv
+/archived/*.csv
+/logs/*.log
+/logs/*.txt
+
+# Archivos temporales de Camel
+/input/*.camelLock
+/input/.camel/
+/input/.camelLock
+.DS_Store

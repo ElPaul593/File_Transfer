@@ -1,0 +1,7 @@
+[OK] Caso TiendaSol: Monitor, Teclado y Mouse convertidos a MAYUSCULAS
+[OK] Encabezado, id, cantidad, precio y estructura CSV preservados
+[OK] Campos de producto que contienen comas entre comillas
+[OK] Saltos de linea Windows CRLF preservados
+[OK] Se rechaza un CSV sin columna producto
+RESULTADO: 5 verificaciones del transformador APROBADAS
+NOTA: esta verificacion NO ejecuta rutas Apache Camel.

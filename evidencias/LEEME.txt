@@ -1,0 +1,10 @@
+EVIDENCIAS DEL TALLER
+====================
+Aqui van las capturas REALES de la ejecucion del proyecto Apache Camel:
+1) 01_terminal_logs.png
+2) 02_carpeta_output.png
+3) 03_ventas_transformadas.png
+4) 04_archived_y_logs.png (opcional)
+
+Se deben tomar en el equipo donde se ejecute Apache Camel.
+No se incluyen capturas inventadas de ejecuciones no realizadas.
