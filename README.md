@@ -1,6 +1,6 @@
 # Taller 1 - File Transfer con Apache Camel | TiendaSol
 
-**Integrantes:** Victor Gomez Suquilanda Fogacho, Roberto Guaña y Paul Larrea.
+**Integrantes:** Jessica Olalla, Tomás Ontaneda, Roberto Guaña y Paul Larrea.
 
 ## Objetivo
 Automatizar el envio de ventas entre dos sistemas heredados por medio del patron **File Transfer**, leyendo `ventas.csv`, transformando **solo los nombres de productos** a mayusculas, entregando una copia a `output/`, archivando el archivo transformado en `archived/` y registrando fecha/hora en consola y `logs/tiendasol.log`.
